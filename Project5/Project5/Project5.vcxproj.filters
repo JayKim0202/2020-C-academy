@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\20차-A">
+      <UniqueIdentifier>{31184aa6-84c8-48f1-84c7-d61bd19068f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\21차-A">
+      <UniqueIdentifier>{a492e704-790c-4ca3-855e-753f01aa73c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\22차-A">
+      <UniqueIdentifier>{90d672bd-7806-435a-a3f8-8678073b32b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\23차-A">
+      <UniqueIdentifier>{c3aee90c-b1f5-4da2-8513-47dba391ce87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\24차-A">
+      <UniqueIdentifier>{3fe62fb9-3d09-4b4a-a163-86960a268fe0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="strcpy이용하지 않고 문자열을 복사하고 붙이기.c">
+      <Filter>소스 파일\20차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat이용하지 않고 문자열 붙여넣기.c">
+      <Filter>소스 파일\20차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="단어 카운트 프로그램.c">
+      <Filter>소스 파일\20차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="다차원 배열.c">
+      <Filter>소스 파일\20차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="세명의 나이, 이름, 주소를 입력받아 출력.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체를 만들고 사용하기 1.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체를 만들고 사용하기 2.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="typedef로 struct 키워드 없이 구조체 선언하기.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="익명 구조체 사용하기.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.1.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터를 선언하고 메모리 할당하기 1.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터를 선언하고 메모리 할당하기 2.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체의 멤버가 포인터일 때 역참조 하기.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 별칭으로 포인터를 선언하고 메모리 할당하기.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="익명 구조체 별칭으로 포인터를 선언하고 메모리 할당하기.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터에 구조체 변수의 주소 할당하기.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.1.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.2.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.3.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.4.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.5.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.6.c">
+      <Filter>소스 파일\21차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.2.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.3.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.4.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.5.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz1.6.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="두 점 사이의 거리 구하기 1.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="두 점 사이의 거리 구하기 2(sqrt).c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2.1.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2.2-H.c">
+      <Filter>소스 파일\22차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체와 메모리를 간단하게 0으로 설정하기 1.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1-1.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1-2.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 배열 선언하기.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터 배열 선언하기.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2-1.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2-2.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2-3.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2-4.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="공용체를 만들고 사용하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="공용체와 엔디언.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="공용체 포인터를 선언하고 메모리 할당하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.1.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.2.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.3.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 안에서 구조체 멤버 사용하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 안의 구조체 멤버에 메모리 할당하기 1.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 안의 구조체 멤버에 메모리 할당하기 2.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="익명 구조체와 익명 공요체 활용하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.1.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.2.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.3.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.4.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="열거형 정의하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="열거형을 switch에 활용하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="열거형을 for에 활용하기.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 3.1.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 3.2.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 3.3.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 3.4.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체와 메모리를 간단하게 0으로 설정하기 2.c">
+      <Filter>소스 파일\23차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 3.5.c">
+      <Filter>소스 파일\24차-A</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿  strcmp를 이용하지 않고 문자열 비교하기 2.c
+C:\Users\우리집노트북2\source\repos\Project4\Project4\strcmp를 이용하지 않고 문자열 비교하기 2.c(13,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\우리집노트북2\source\repos\Project4\Project4\strcmp를 이용하지 않고 문자열 비교하기 2.c(21,24): warning C4047: '==': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project4\Project4\strcmp를 이용하지 않고 문자열 비교하기 2.c(10,6): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  Project4.vcxproj -> C:\Users\우리집노트북2\source\repos\Project4\Debug\Project4.exe

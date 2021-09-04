@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\27차-A">
+      <UniqueIdentifier>{6ca84295-551e-4b5a-b506-dd99700ba4fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\27차-H">
+      <UniqueIdentifier>{aa62a841-eb6c-4695-8799-86d7fe064088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\28차-A">
+      <UniqueIdentifier>{cd8419e5-befd-4efe-b3f2-a529b86a87bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\29차-A">
+      <UniqueIdentifier>{0fb5ca5f-bcc2-4bae-b789-b4f4701b4c0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\29차-H">
+      <UniqueIdentifier>{c83b0aa7-2d0d-45ea-9c7f-a9964f2f58ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\30차-A">
+      <UniqueIdentifier>{23dd1eb8-3d54-4da6-bb92-0e4ca3914fbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\30차-H">
+      <UniqueIdentifier>{d5b455e7-2167-4300-853c-b966111a681a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hello, World! 출력 함수 만들기.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 선언과 정의 분리하기 1%28에러%29.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 선언과 정의 분리하기 2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.1.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.3.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.4.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정수, 실수, 불 반환값 사용하기 1.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정수, 실수, 불 반환값 사용하기 2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 반환하기 1%28에러%29.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 반환하기 3.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 반환하기 2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="void 포인터 반환하기.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체와 구조체 포인터 반환하기 1.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체와 구조체 포인터 반환하기 2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.1.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.2.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.3.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.4.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.5.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.6.c">
+      <Filter>소스 파일\27차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.7.c">
+      <Filter>소스 파일\27차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2.8.c">
+      <Filter>소스 파일\27차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="매개변수 사용하기.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="덧셈 함수 만들기.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1-1.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1-2.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1-3.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1-4.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 매개변수 사용하기 1.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 매개변수 사용하기 2.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="void 포인터 매개변수 사용하기.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 매개변수 사용하기 1.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 매개변수 사용하기 2.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2-1.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2-2.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2-3.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 2-4.c">
+      <Filter>소스 파일\28차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 매개변수 사용하기 1.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 매개변수 사용하기 2.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="배열 매개변수 사용하기 3.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.1.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.2.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 매개변수 사용하기.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 매개변수 사용하기(에러).c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 포인터 매개변수 사용하기.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2.1.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2.2.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2.3.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.2.4.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="strlen를 사용하지 않고, 글자 개수를 카운트하는 함수 만들기.c">
+      <Filter>소스 파일\29차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat를 사용하지않고, 문장뒤에 문장 복사하는 함수 만들기.c">
+      <Filter>소스 파일\29차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="strcpy를 사용하지않고, 복사하는 함수 만들기.c">
+      <Filter>소스 파일\29차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="점수로 등수구하기.c">
+      <Filter>소스 파일\30차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="계산기 .c">
+      <Filter>소스 파일\30차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="달력 1.c">
+      <Filter>소스 파일\30차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="달력 2.c">
+      <Filter>소스 파일\30차-H</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
