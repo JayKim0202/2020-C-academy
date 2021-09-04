@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\43차-A">
+      <UniqueIdentifier>{1eda2a75-2ef7-4448-9c60-9a079416c32b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\44차-A">
+      <UniqueIdentifier>{d74c1bf3-fe2c-4711-8e77-0b9639b9398c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\45차-A">
+      <UniqueIdentifier>{05cc8157-a98d-4000-8fe6-a2df8c431ae8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\46차-A">
+      <UniqueIdentifier>{57d88930-efe9-4656-b779-cb8a503a6b20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\46차-H">
+      <UniqueIdentifier>{0353a69f-db96-472f-9b2c-aac6b00dcec4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UI.c">
+      <Filter>소스 파일\43차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="UI box.c">
+      <Filter>소스 파일\43차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="student data + ui.c">
+      <Filter>소스 파일\43차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="UI box %28ㅂ + 한자키%29.c">
+      <Filter>소스 파일\43차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="동적배열.c">
+      <Filter>소스 파일\44차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="배열감소.c">
+      <Filter>소스 파일\45차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="배열증가.c">
+      <Filter>소스 파일\45차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked List 1.c">
+      <Filter>소스 파일\46차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked List 3.c">
+      <Filter>소스 파일\46차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Linked List 2.c">
+      <Filter>소스 파일\46차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Bus Station.c">
+      <Filter>소스 파일\46차-H</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+﻿  student Data.c
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(25,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(170,38): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(172,14): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(239,16): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA **'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(239,13): warning C4024: 'saveTotal': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(305,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(312,27): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(319,28): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(326,29): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(378,25): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(378,22): warning C4024: 'deleteStudentInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(382,25): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(382,22): warning C4024: 'changeStudentInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(385,25): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(385,22): warning C4024: 'insertStudentInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(393,23): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(393,20): warning C4024: 'saveStudentData': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(399,24): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(399,21): warning C4024: 'totalStudentInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(402,23): warning C4047: '함수': 'STUDENTDATA *'의 간접 참조 수준이 'STUDENTDATA (*)[1]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(402,20): warning C4024: 'rankStudentInfo': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project11\Project11\student Data.c(179): warning C4716: 'saveTotal': 값을 반환해야 합니다.
+  Project11.vcxproj -> C:\Users\우리집노트북2\source\repos\Project11\Debug\Project11.exe

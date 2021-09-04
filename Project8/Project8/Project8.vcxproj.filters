@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\31차-H, 32차-A">
+      <UniqueIdentifier>{11dcc056-ee15-4895-a6d8-533951386400}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\33차-A">
+      <UniqueIdentifier>{ebf4a744-af93-45d0-881d-ad8b05ad44be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-A">
+      <UniqueIdentifier>{0be9dc09-ae4a-43d6-8587-3b9f5f2b286c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-A\여러 소스 파일 사용하기">
+      <UniqueIdentifier>{1aba1ae7-80bc-4754-bdbf-21ff8cb5251f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\여러 소스 파일 사용하기.h">
+      <UniqueIdentifier>{2394f349-db94-4be8-a1f6-f9bb85c9b634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\여러 소스 파일 사용하기- H">
+      <UniqueIdentifier>{f16ad997-d8c7-4c68-a233-fb6c2543768d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-H">
+      <UniqueIdentifier>{d2b85483-42c7-4e0a-bf8e-2803df86518d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-H\여러 소스 파일 사용하기-H">
+      <UniqueIdentifier>{f4945896-a492-432d-8f87-eb7f7b28d5dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-H\연습문제: 헤더파일 작성하기">
+      <UniqueIdentifier>{2c4bf20d-72cb-4fe3-877f-e3adf8668945}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\연습문재: 헤더파일 작성하기.h">
+      <UniqueIdentifier>{9eb90975-9aba-4797-8965-d824f9440aa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\34차-H\심사문제: 헤더 파일 작성하기">
+      <UniqueIdentifier>{572e766b-ece0-4689-b4de-ccf912cc4dd4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\심사문제: 헤더 파일 작성하기.h">
+      <UniqueIdentifier>{bf15fb72-ee72-4d4a-8a3b-84621deb9172}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\35차-A">
+      <UniqueIdentifier>{31988912-35de-496f-8c60-65332c3ec38b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\35차-A\extern으로 다른 소스 파일의 전역 변수 상용하기">
+      <UniqueIdentifier>{948c46f5-7711-4d2c-af7e-dc1e1bb9babf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\35차-H">
+      <UniqueIdentifier>{799716d1-83a3-48b1-a801-04188be7df36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\36차-A">
+      <UniqueIdentifier>{4ea044cc-0f45-477b-bb88-8fa20369414e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\36차-H">
+      <UniqueIdentifier>{5707a34d-d04a-4ea1-929e-9505b95d5855}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="도서검색 1.c">
+      <Filter>소스 파일\31차-H, 32차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.c">
+      <Filter>소스 파일\31차-H, 32차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로 정의하기 1.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로 정의하기 2.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="함수 모양의 매크로 정의하기.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="여러 줄을 묶어서 매크로로 정의하기 1.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="여러 줄을 묶어서 매크로로 정의하기 2.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="스왑 매크로 정의하기.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로와 연산자 우선순위 알아보기 1.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로와 연산자 우선순위 알아보기 3.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로와 연산자 우선순위 알아보기 2.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로 연결 사용하기 1.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="매크로 연결 사용하기 2.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.1.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.2.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz 1.3.c">
+      <Filter>소스 파일\33차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="조건부 컴파일 사용하기.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="값 또는 식으로 조건부 컴파일하기 1.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="값 또는 식으로 조건부 컴파일하기 3.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="값 또는 식으로 조건부 컴파일하기 2.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="값 또는 식으로 조건부 컴파일하기 4.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 포함하기.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.1.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.2.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.1.3.c">
+      <Filter>소스 파일\34차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="calc.c">
+      <Filter>소스 파일\34차-A\여러 소스 파일 사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="print.c">
+      <Filter>소스 파일\34차-A\여러 소스 파일 사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>소스 파일\34차-A\여러 소스 파일 사용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="calc-H.c">
+      <Filter>소스 파일\34차-H\여러 소스 파일 사용하기-H</Filter>
+    </ClCompile>
+    <ClCompile Include="print-H.c">
+      <Filter>소스 파일\34차-H\여러 소스 파일 사용하기-H</Filter>
+    </ClCompile>
+    <ClCompile Include="main-H.c">
+      <Filter>소스 파일\34차-H\여러 소스 파일 사용하기-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1_calc.c">
+      <Filter>소스 파일\34차-H\연습문제: 헤더파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1_print.c">
+      <Filter>소스 파일\34차-H\연습문제: 헤더파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Q1_main.c">
+      <Filter>소스 파일\34차-H\연습문제: 헤더파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2_append.c">
+      <Filter>소스 파일\34차-H\심사문제: 헤더 파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2_print.c">
+      <Filter>소스 파일\34차-H\심사문제: 헤더 파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Q2_main.c">
+      <Filter>소스 파일\34차-H\심사문제: 헤더 파일 작성하기</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의 범위 알아보기 1.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수의 범위 알아보기 2.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="전역 변수 선언하기 1.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="전역 변수 선언하기 2.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="extern main%28error%29.c">
+      <Filter>소스 파일\35차-A\extern으로 다른 소스 파일의 전역 변수 상용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="extern print.c">
+      <Filter>소스 파일\35차-A\extern으로 다른 소스 파일의 전역 변수 상용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="extern main.c">
+      <Filter>소스 파일\35차-A\extern으로 다른 소스 파일의 전역 변수 상용하기</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.1.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.2_print.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.2_mian.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.3.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.4_print.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.4_main.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="자동 변수 사용하기.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 변수 선언하기 1.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 변수 선언하기 2.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 변수 선언하기 3_main.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 변수 선언하기 3_print.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 변수 선언하기 4.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 함수 사용하기_ print.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 함수 사용하기_main(error).c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정적 함수 사용하기_main.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="레지스터 변수 사용하기.c">
+      <Filter>소스 파일\35차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.1_sub.c">
+      <Filter>소스 파일\35차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.1_main.c">
+      <Filter>소스 파일\35차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.2.c">
+      <Filter>소스 파일\35차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="가변 인자 함수 만들기 1.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="가변 인자 함수 만들기 2.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="자료형이 다른 가변 인자 함수 만들기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="서식을 지정하여 파일에 문자열 쓰기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="서식을 지정하여 파일에서 문자열 읽기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일에 문자열 쓰기 1.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일에 문자열 쓰기 2.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일에서 문자열 읽기 1.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일에서 문자열 읽기 2.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 크기 구하기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일 크기만큼 파일 읽기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일을 부분적으로 읽고 쓰기 1.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="파일을 부분적으로 읽고 쓰기 2.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="제한된 버퍼로 파일 전체를 읽기.c">
+      <Filter>소스 파일\36차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-1.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-2.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-3.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-4.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-1.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-2_W.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-2_R.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-3.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-4_W.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-4_R.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-1.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-2_R.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-2_W.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-3.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-4.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-5.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_3-6.c">
+      <Filter>소스 파일\36차-H</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="message.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="debug.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="calcdata.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="calc.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="print.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="calcdata-H.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기- H</Filter>
+    </ClInclude>
+    <ClInclude Include="calc-H.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기- H</Filter>
+    </ClInclude>
+    <ClInclude Include="print-H.h">
+      <Filter>헤더 파일\여러 소스 파일 사용하기- H</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1_calcdata.h">
+      <Filter>헤더 파일\연습문재: 헤더파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1_calc.h">
+      <Filter>헤더 파일\연습문재: 헤더파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Q1_print.h">
+      <Filter>헤더 파일\연습문재: 헤더파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2_data.h">
+      <Filter>헤더 파일\심사문제: 헤더 파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2_append.h">
+      <Filter>헤더 파일\심사문제: 헤더 파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Q2_print.h">
+      <Filter>헤더 파일\심사문제: 헤더 파일 작성하기.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz_1.2.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Quiz_1.4.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
