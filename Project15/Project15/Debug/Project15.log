@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(711,9): error MSB4030: "아니요"은(는) "CL" 작업의 "SDLCheck" 매개 변수에 사용할 수 없는 값입니다. "SDLCheck" 매개 변수는 "System.Boolean" 형식입니다.

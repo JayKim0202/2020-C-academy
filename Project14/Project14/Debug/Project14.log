@@ -1,0 +1,16 @@
+﻿  note2.c
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(64,29): warning C4047: '함수': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(64,25): warning C4024: 'memset': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(186,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(187,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(195,38): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(210,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(211,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(266,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(267,41): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(178,34): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(258,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(308,6): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(365,42): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'char [10][128]'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project14\Project14\note2.c(365,31): warning C4024: 'fwrite': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+  Project14.vcxproj -> C:\Users\우리집노트북2\source\repos\Project14\Debug\Project14.exe

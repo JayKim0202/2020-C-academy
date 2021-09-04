@@ -1,0 +1,5 @@
+﻿  calculator(stack)2.c
+C:\Users\우리집노트북2\source\repos\Project15(new)\Project15(new)\calculator(stack)2.c(59,22): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\우리집노트북2\source\repos\Project15(new)\Project15(new)\calculator(stack)2.c(74,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project15(new)\Project15(new)\calculator(stack)2.c(248): warning C4715: 'num_conversion': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Project15(new).vcxproj -> C:\Users\우리집노트북2\source\repos\Project15(new)\Debug\Project15(new).exe

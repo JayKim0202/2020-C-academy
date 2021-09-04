@@ -1,0 +1,7 @@
+﻿  BinarySearchTree.c
+C:\Users\우리집노트북2\source\repos\Project18\Project18\BinarySearchTree.c(52,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project18\Project18\BinarySearchTree.c(61,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\우리집노트북2\source\repos\Project18\Project18\BinarySearchTree.c(128,3): warning C4033: 'search'은(는) 값을 반환해야 합니다.
+C:\Users\우리집노트북2\source\repos\Project18\Project18\BinarySearchTree.c(121): warning C4716: 'inorder_print': 값을 반환해야 합니다.
+C:\Users\우리집노트북2\source\repos\Project18\Project18\BinarySearchTree.c(139): warning C4716: 'search': 값을 반환해야 합니다.
+  Project18.vcxproj -> C:\Users\우리집노트북2\source\repos\Project18\Debug\Project18.exe
