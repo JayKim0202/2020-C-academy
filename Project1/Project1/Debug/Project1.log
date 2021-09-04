@@ -1,0 +1,6 @@
+﻿  Hello 1234.c
+  Hello, world!.c
+  컴파일하고 있습니다...
+  코드를 생성하고 있습니다...
+Hello, world!.obj : error LNK2005: _main이(가) Hello 1234.obj에 이미 정의되어 있습니다.
+C:\Users\우리집노트북2\source\repos\Project1\Debug\Project1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

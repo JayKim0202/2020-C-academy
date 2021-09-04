@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1차-H">
+      <UniqueIdentifier>{cc253566-c8a2-417e-b650-f2b92fbf2ca3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2차-A">
+      <UniqueIdentifier>{0560e88b-1d9c-4ea0-bafe-c8dc6f8d59a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\2차-H">
+      <UniqueIdentifier>{1ae3aaf9-e30f-4289-a0d8-f0a051f80ca2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3차-A">
+      <UniqueIdentifier>{c966b42a-8389-407d-93c6-e435faf62360}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\3차-H">
+      <UniqueIdentifier>{fcab8fa4-d2bf-48b1-a803-286f4d6cbace}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4차-A">
+      <UniqueIdentifier>{9c140cd1-ec34-4863-a9b8-73c97c863937}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\4차-H">
+      <UniqueIdentifier>{8bf95157-38ba-4688-92e3-a619fdc6207c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\5차-A">
+      <UniqueIdentifier>{c09837ad-4ce4-41c8-8821-e277e58ce9d8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Quiz%28A%291-1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz%28A%291-2.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="float, double%28A%29%28소수점%29.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="char%28A%29%28문자변수 10진수%291-1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="char(A)(문자변수 16진수)1-1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="문자로 연산하기.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문자(A)1-1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="제어문자(A)1-2.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz(A)2-1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz(A)2-2.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="literal.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="const.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="const assign error.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz.c">
+      <Filter>소스 파일\1차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_hello.c">
+      <Filter>소스 파일\1차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Percent d,Percent f.c">
+      <Filter>소스 파일\1차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_hello_with_format.c">
+      <Filter>소스 파일\1차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="변수_만들기1.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수_만들기2.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수_만들기3.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="주석.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_변수_만들기1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_변수_만들기2.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_변수_만들기3.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_1-1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_1-2.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_float, double%28A%29%28소수점%29.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_char(A)(문자변수 10진수)1-1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_char(A)(문자변수 10진수)1-2.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="char%28A%29%28문자변수 10진수%291-2.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_char(A)(문자변수 16진수)1-1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="char%28A%29%28문자변수%293.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_char(A)(문자변수)3.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_주석.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_2-1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_2-2.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz%28A%292-3.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz%28A%292-4.c">
+      <Filter>소스 파일\2차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_2-3.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_Quiz_2-4.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_정수입력_1.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_정수입력_2%28기억X%29.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_float.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf_char.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_제어문자1-1.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_제어문자1-2.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="덧셈, 뺼셈, 곱셈, 나눗셈.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수plus값_1.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수plus값_2.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="소수점_계산.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-1.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2-2.c">
+      <Filter>소스 파일\3차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="H_scanf_정수입력_1.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_scanf_float.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_scanf_char.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_변수Equal변수Plus값_1.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_변수Equal변수Plus값_2.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="H_소수점_계산.c">
+      <Filter>소스 파일\3차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈, 나눗셈.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="나눗셈_오류(0).c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="곱셈, 나눗셈 소숫점(float).c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-1.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-2.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1-3.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="나머지.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수%28나머지%29값_1.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수(나머지)값_2.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2-1.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2-2.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz2-3.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="두 개의 숫자를 사용자로부터 입력받아 더한 결과를 출력하는 프로그램 작성.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="만_단위의_정수_역수_출력.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수Time_1값.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="변수Equal변수Time_2.c">
+      <Filter>소스 파일\4차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="정수_100을_출력하는_플로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="변수에_숫자_1000을_저장하고_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="소수전_123.456을_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="변수에_%27a%27를 저장하고_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자_하나를_키보드로_입력받아_저장하고_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="%27숫자를_입력하세요%27_라는_메세지_출력_후_숫자_하나를_키보드로_ㅇ비력받아_저장하고_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를_사용자로부터_입력받아_더한_결과를 출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를_사용자로부터_입력받아_뺸_결과를_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를_사용자로부터_입력받고_곱한_결과를_출력하는_프롤그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="소수점을_키보드로부터_입력받고_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="글자_하나를_입력받아_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="100plus20minus6울_계산하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를_입력받아_나머지를_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를 입력받아_몫을_출력하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="두_개의_숫자를_입력받아_몫과_나머지를_출력하는_프롤그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="반지름을_읽어_원의_면적을_계산하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="물건을_구매하고_돈을_지불했을_때_거스름돈의_액수를_출력하고,_필요한_500원,_100원,_50원,_10원,_1원,_동전의_수를_출력하는_프로그램_작성_Ver.1.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="물건을_구매하고_돈을_지불했을_때_거스름돈의_액수를_출력하고,_필요한_500원,_100원,_50원,_10원,_1원_동전의_수를_출력하는_프로그램_작성_Ver.2.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="물건을_구매하고_돈을_지불했을_때_거스름돈의_액수를_출력하고,_필요한_500원,_100원,_50원,_10원,_1원_동전의_수를_출력하는_프로그램_작성_Ver.3.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="현재_가지고_있는_금액을_키보드로_입력받고,_1천원_지폐와 500원_동전으로_교환할_경우_지폐의_개수와_동정의_개수를_계산하는_프로그램_작성.c">
+      <Filter>소스 파일\4차-H</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자(소수점).c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자(문자).c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="감소_연산자.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증가_연산자.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자_위치에_따른_변화_1-2.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자_위치에_따른_변화_1-1.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자_위치에_따른_변화_2-1.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="증감_연산자_위치에_따른_변화_2-2.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.1.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.2.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_1.3.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="비교_연산자.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항_연산자_1-1.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항_연산자_1-2.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="삼항_연산자_1-3.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.1.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.2.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.3.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.4.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz_2.5.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="논리_연산자_AND.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="논리_연산자_OR.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="논리_연산자_NOT.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+    <ClCompile Include="조건식과_논리_연산자.c">
+      <Filter>소스 파일\5차-A</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="H_문자로 연산하기.c">
+      <Filter>소스 파일\2차-H</Filter>
+    </None>
+  </ItemGroup>
+</Project>
